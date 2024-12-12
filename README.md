@@ -1,5 +1,5 @@
 # Portfolio
-- [About me](#about-me)
+- [Tentang Saya](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
