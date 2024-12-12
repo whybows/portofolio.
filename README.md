@@ -11,7 +11,7 @@
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
 
-## About me
+## Tentang Saya
 
 Wahyu Tri Wibowo, seorang spesialis QA yang berpengalaman dalam pengujian manual aplikasi perangkat lunak dengan penekanan pada kualitas produk dan kepuasan pengguna. Memiliki pengetahuan mendalam tentang metodologi pengujian dan praktik terbaik dalam QA. Mampu mengidentifikasi, mereplikasi, dan melaporkan bug dengan akurat dan efisien. Berkolaborasi dengan tim pengembangan untuk memastikan pengiriman produk berkualitas tinggi yang memenuhi standar industri dan harapan pelanggan. Keterampilan komunikasi yang baik dan kemampuan untuk bekerja di bawah tekanan dalam lingkungan yang dinamis.
 
@@ -24,7 +24,9 @@ Anda dapat menemukan contoh keterampilan yang dijelaskan di bagian [Pengalaman K
 
 __Manual testing__
   * Dapat melakukan pengujian fungsional dan kegunaan aplikasi web secara manual.
+  * Dapat melakukan pengujian fungsional dan kegunaan aplikasi mobile android dan ios secara manual.
   * Memperoleh pengalaman langsung dengan menguji aplikasi yang dibuat untuk tujuan perbankan.
+  * 
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
@@ -54,14 +56,17 @@ __Python fundamentals__
 
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+__Confluence__
+  * Membuat test cases (normal dan negatif)
+  * Membuat dokumentasi UAT
+  * Membuat dokumentasi SIT
+  * Membuat dokumentasi BugList
 
 __Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
+  * Membuat bug reports
+  * Melihat progress pengembangan
+  * Menentukan tingkat resiko bug
+  * Mencatat kegiatan harian (jira repository)
 
 __SoapUI__
 
