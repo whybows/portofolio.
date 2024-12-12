@@ -4,7 +4,7 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
+- [Pengalaman Kerja Saya](#examples-of-my-work)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
@@ -20,7 +20,7 @@ Anda dapat mengunduh CV saya di (https://drive.google.com/drive/folders/1DcQW8Ve
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+Anda dapat menemukan contoh keterampilan yang dijelaskan di bagian Pengalaman pekerjaan saya. (#examples-of-my-work) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
