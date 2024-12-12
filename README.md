@@ -20,11 +20,11 @@ Anda dapat mengunduh CV saya di (https://drive.google.com/drive/folders/1DcQW8Ve
 
 ## Skills
 
-Anda dapat menemukan contoh keterampilan yang dijelaskan di bagian Pengalaman pekerjaan saya. [Pengalaman Kerja Saya](#examples-of-my-work)
+Anda dapat menemukan contoh keterampilan yang dijelaskan di bagian [Pengalaman Kerja Saya](#examples-of-my-work).
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * Dapat melakukan pengujian fungsional dan kegunaan aplikasi web secara manual.
+  * Memperoleh pengalaman langsung dengan menguji aplikasi yang dibuat untuk tujuan perbankan.
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
