@@ -75,7 +75,7 @@ Sertifikat bisa lihat [disini](https://drive.google.com/drive/folders/10UzieRgOb
 
 ### Test cases and work in Confluence
 
-- [BRIMOLA](https://brimola.bri.co.id/brimola/)
+- [BRIMOLA](https://brimola.bri.co.id/brimola/) adalah aplikasi berbasis web dan mobile apps dari Bank Rakyat Indonesia (BRI) yang digunakan untuk transaksi dan monitoring penyaluran gas Elpiji 3 kg. Aplikasi ini dapat digunakan oleh agen, pangkalan, dan Pertamina. Fitur-fitur yang tersedia di Brimola, antara lain, pemesanan gas Elpiji 3 kg dari pangkalan ke agen, pendaftaran pangkalan LPG, monitoring pesanan, update informasi status pesanan LPG, pengecekan status pembayaran, update informasi pengiriman barang, pencetakan laporan, kuota pembelian LPG 
   * Melakukan pengetesan Pada Web, mobile android dan IOS
   * Membuat test case di [confluence](https://drive.google.com/drive/folders/1LKN4jIF0evG6tcCjEMAIba6Ji63riLYy?hl=ID)
   * Membuat BA UAT di [confluence](https://drive.google.com/drive/folders/1ZSmCtO3Rwt9lI_pXHgQV9xDakdj6p5S9?hl=ID)
