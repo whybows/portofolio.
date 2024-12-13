@@ -85,35 +85,11 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 - [BRIMOLA](https://brimola.bri.co.id/brimola/)
   * Melakukan pengetesan Pada Web, mobile android dan IOS
   * Membuat test case di [confluence](https://drive.google.com/drive/folders/1LKN4jIF0evG6tcCjEMAIba6Ji63riLYy?hl=ID)
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+  * Membuat BA UAT di [confluence](https://drive.google.com/drive/folders/1ZSmCtO3Rwt9lI_pXHgQV9xDakdj6p5S9?hl=ID)
+  * Membuat Bug list di [Jira](https://drive.google.com/drive/folders/1zGXBaLkiED4r5SiOMqX-_1wJMMPrKDrJ?hl=ID)
+  * Membuat Dokumen bug list di [confluence](https://drive.google.com/drive/folders/1i1OjFMUWaF0wPxxKVEu19_dvxYco2H7q?hl=ID)
+  * Membuat laporan harian pekerjaan di [jira](https://drive.google.com/drive/folders/1m54k9fJNGNMBxMdjuHcee22AfCTMZqiS?hl=ID)
 
 
 ### Bug reports and work in Jira
-
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
-
-### Mindmaps and diagrams
-* Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
-* State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
-* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
-* Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
-
-### Scripts for PICT (pairwise testing)
-
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
-* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
-
-## Books I have read
-__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
-
-__"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
+ * Membuat laporan bug list di [Jira](https://drive.google.com/drive/folders/1JgYh6ENJfCe3nC3wGeRRzWrnspEaWGmV?hl=ID)
