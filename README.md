@@ -16,7 +16,7 @@
 Wahyu Tri Wibowo, seorang spesialis QA yang berpengalaman dalam pengujian manual aplikasi perangkat lunak dengan penekanan pada kualitas produk dan kepuasan pengguna. Memiliki pengetahuan mendalam tentang metodologi pengujian dan praktik terbaik dalam QA. Mampu mengidentifikasi, mereplikasi, dan melaporkan bug dengan akurat dan efisien. Berkolaborasi dengan tim pengembangan untuk memastikan pengiriman produk berkualitas tinggi yang memenuhi standar industri dan harapan pelanggan. Keterampilan komunikasi yang baik dan kemampuan untuk bekerja di bawah tekanan dalam lingkungan yang dinamis.
 
 ## CV
-Anda dapat mengunduh CV saya di (https://drive.google.com/drive/folders/1DcQW8VevUEsY8lZ65Wxa1R_36LskC5xk?hl=ID).
+Anda dapat mengunduh CV saya [disini] (https://drive.google.com/drive/folders/1DcQW8VevUEsY8lZ65Wxa1R_36LskC5xk?hl=ID)
 
 ## Skills
 
