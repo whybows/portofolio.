@@ -3,13 +3,11 @@
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
+- [Sertifikasi](#Sertifikasi)
 - [Pengalaman Kerja Saya](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Test cases and work in Confluence](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
+
 
 ## Tentang Saya
 
@@ -59,7 +57,7 @@ __HeidySQL__
  * Untuk pengecekan database
 
 
-## Courses
+## Sertifikasi
 
 __Robot Framework Test Automation, Levels 1-4__  
 *online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
