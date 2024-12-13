@@ -27,31 +27,16 @@ __Manual testing__
   * Dapat melakukan pengujian fungsional dan kegunaan aplikasi mobile android dan ios secara manual.
   * Memperoleh pengalaman langsung dengan menguji aplikasi yang dibuat untuk tujuan perbankan.
 
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
-
 __API testing__
-  * know the difference between SOAP and REST APIs
   * Memperoleh pengalaman melalui pengujian manual API yang dibuat untuk tujuan transaksional
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
 
 __Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
+  * Dapat membuat test case dan checklists serta mengetahui bagaimana dan dalam situasi apa menggunakannya secara efektif
+  * Mampu menyiapkan laporan bug yang komprehensif dan memberikan laporan secara terperinci
 
 __SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
+  * Dapat menulis dan menjalankan permintaan kompleks menggunakan subqueries
 
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
 
 ## Tools
 
@@ -67,18 +52,12 @@ __Jira__
   * Menentukan tingkat resiko bug
   * Mencatat kegiatan harian (jira repository)
 
-__SoapUI__
+__Postman__
+ * Menjalkan API yang diberikan tim dev
 
-__Browser developer tools__
+__HeidySQL__
+ * Untuk pengecekan database
 
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
 
 ## Courses
 
