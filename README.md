@@ -80,9 +80,11 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 ## Examples of my work
 
-### Test cases and work in TestRail
+### Test cases and work in Confluence
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
+- [BRIMOLA](https://brimola.bri.co.id/brimola/)
+  * Melakukan pengetesan Pada Web, mobile android dan IOS
+  * Membuat test case di [confluence](https://drive.google.com/drive/folders/1LKN4jIF0evG6tcCjEMAIba6Ji63riLYy?hl=ID)
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
   * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
 
