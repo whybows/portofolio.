@@ -26,7 +26,6 @@ __Manual testing__
   * Dapat melakukan pengujian fungsional dan kegunaan aplikasi web secara manual.
   * Dapat melakukan pengujian fungsional dan kegunaan aplikasi mobile android dan ios secara manual.
   * Memperoleh pengalaman langsung dengan menguji aplikasi yang dibuat untuk tujuan perbankan.
-  * 
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
@@ -34,7 +33,7 @@ __Test analysis & design__
 
 __API testing__
   * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
+  * Memperoleh pengalaman melalui pengujian manual API yang dibuat untuk tujuan transaksional
   * know how to manipulate requests and create test cases using the SoapUI tool
 
 __Exploratory testing__
